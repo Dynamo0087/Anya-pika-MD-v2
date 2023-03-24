@@ -61,7 +61,7 @@ global.mess = {
     success: 'Work done 𝗗𝗮𝗿𝗹𝗶𝗻𝗴❤️',
     admin: "Baby!\nThis command is only for 𝗔𝗱𝗺𝗶𝗻𝘀...So i can't process your command babe. 😑", // I used "\n" for change the line 
     botAdmin: 'First make me 𝗔𝗱𝗺𝗶𝗻!!! 😐',
-    owner: 'This command is only for my 𝗼𝘄𝗻𝗲𝗿..',
+    owner: 'This command is only for my 𝗼𝘄𝗻𝗲𝗿 Baby..',
     group: "Baka !!!!!\nYou can't use this command in a 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁 !😑",
     private: 'Such a baka !!\nThis command is only for 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁𝘀. 🥲',
     bot: "This Feature Is Only For 𝗕𝗼𝘁... and you're not a 𝗕𝗼𝘁.",
